@@ -1,0 +1,17 @@
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\bin\Debug\net8.0\restingBface.exe
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\bin\Debug\net8.0\restingBface.deps.json
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\bin\Debug\net8.0\restingBface.runtimeconfig.json
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\bin\Debug\net8.0\restingBface.dll
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\bin\Debug\net8.0\restingBface.pdb
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\bin\Debug\net8.0\RestSharp.dll
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\restingBface.csproj.AssemblyReference.cache
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\restingBface.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\restingBface.AssemblyInfoInputs.cache
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\restingBface.AssemblyInfo.cs
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\restingBface.csproj.CoreCompileInputs.cache
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\restingBface.csproj.CopyComplete
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\restingBface.dll
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\refint\restingBface.dll
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\restingBface.pdb
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\restingBface.genruntimeconfig.cache
+c:\Users\baltazar.biverstal\Documents\programering2\restingBface\restingBface\obj\Debug\net8.0\ref\restingBface.dll

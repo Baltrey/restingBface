@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QstSZY9jRSPZU8G3J+yTf1P9SDSU5GnwHpRjGuBPDMgvydzAsEhq8QDNhRIjhkivPOp0RZAgs17xgmc076aS/g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\baltazar.biverstal\\Documents\\programering2\\restingBface\\restingBface\\restingBface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baltazar.biverstal\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\baltazar.biverstal\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\baltazar.biverstal\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
